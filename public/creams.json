@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "index": 0,
+      "name": "Olay",
+      "image": "https://m.media-amazon.com/images/I/51YeSvGLUrL._SL1000_.jpg",
+      "type": "Just Chill",
+      "price": 950
+    },
+    {
+      "id": 2,
+      "index": 1,
+      "name": "Estee Lauder",
+      "image": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjF3cjRiWFg4OUwuX1NMMTEwMF8uanBn.jpg",
+      "type": "Keep Coding",
+      "price": 830
+    },
+    {
+      "id": 3,
+      "index": 2,
+      "name": "Nivea",
+      "image": "https://5.imimg.com/data5/YB/LX/MY-27273173/nivea-cream-500x500.jpg",
+      "type": "Mix yellow",
+      "price": 650
+    },
+    {
+      "id": 4,
+      "index": 3,
+      "name": "LOreal Paris",
+      "image": "https://cdn.nicehair.dk/products/62240/loreal-paris-skin-expert-triple-active-fresh-gel-cream-50-ml-1611104299.jpg",
+      "type": "Age Factor",
+      "price": 750
+    },
+    {
+      "id": 5,
+      "index": 4,
+      "name": "Neutrogena",
+      "image": "https://www.ukdirectbd.com/wp-content/uploads/2017/05/640ee8e9-a9d8-46c7-9bb6-709cdaf0c5ae._SR300300_.jpg",
+      "type": "All skin",
+      "price": 420
+    },
+    {
+      "id": 6,
+      "index": 5,
+      "name": "Simple",
+      "image": "https://static-01.daraz.com.bd/p/19a69de29e6e376ab3109ccbbec19562.jpg",
+      "type": "Dry Skin",
+      "price": 380
+    },
+    {
+      "id": 7,
+      "index": 6,
+      "name": "Cetaphil",
+      "image": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzEzT09FRnIySEwuX1NMMTUwMF8uanBn.jpg",
+      "type": "Sensitive skin",
+      "price": 1000
+    },
+    {
+      "id": 8,
+      "index": 7,
+      "name": "Avene",
+      "image": "https://klassy.com.bd/wp-content/uploads/2022/01/m8y.png",
+      "type": "Oily Skin",
+      "price": 1200
+    },
+    {
+      "id": 9,
+      "index": 8,
+      "name": "Cerave",
+      "image": "https://www.saffron.com.bd/images/detailed/245/ba6c4162e59f1b4fb4d7919cd48daf7e.jpg",
+      "type": "Normal Skin",
+      "price": 600
+    },
+    {
+      "id": 10,
+      "index": 9,
+      "name": "Clinique",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOlRjQxTJ7u4ABZmUqAbozZL3wprZB9CiEzA&usqp=CAU",
+      "type": "Combination Skin",
+      "price": 580
+    },
+    {
+      "id": 11,
+      "index": 10,
+      "name": "LAshield",
+      "image": "https://media.clickoncare.com/catalog/product/cache/1/image/600x/9df78eab33525d08d6e5fb8d27136e95/_/0/_0007_layer-1-copy-366095653.jpg",
+      "type": "Sunscreen",
+      "price": 300
+    },
+    {
+      "id": 12,
+      "index": 11,
+      "name": "Lancome",
+      "image": "https://static3.sabinacdn.com/887-thickbox_default/genifique-cream-lancome.jpg",
+      "type": "Acne Skin",
+      "price": 500
+    }
+  ]
